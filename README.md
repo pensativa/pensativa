@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋
+I'm junior+ Frontend Developer
 
-<!--
-**pensativa/pensativa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My education
 
-Here are some ideas to get you started:
+**I have studied at HTML Academy *(2018 - 2019)*.**
+- Course - Professional HTML&CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I'm studing now at Integrify.io *(2022.09 - 202x.xx)*.**
+- Course - Fullstack Development
+
+## My work experience
+
+I had an experience as a freelancer for Frontend Development.
+As a freelancer I made different websites like landing, e-commerce, bissnes website etc.
