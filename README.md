@@ -12,7 +12,7 @@ I'm junior+ Frontend Developer
 ## My work experience
 
 I had an experience as a freelancer for Frontend Development.
-As a freelancer I made different websites like landing, e-commerce, bissnes website etc.
+As a freelancer I made different websites like landing, ecommerce, business website etc.
 
 ## My Github Stats
 | ![Mariia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pensativa&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pensativa&layout=compact) |
