@@ -8,9 +8,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61dafb)
+<!-- ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61dafb)
 ![Redux](https://img.shields.io/badge/-Redux-7248B6?style=flat-square&logo=redux&logoColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff) -->
 
 ![Material UI](https://img.shields.io/badge/-MaterialUI-3399FF?style=flat-square&logo=mui&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)
@@ -28,5 +28,7 @@
 
 ---
 
-| ![Mariia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pensativa&show_icons=true&theme=gotham) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pensativa&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) |
-| ----------- | ----------- |
+<!-- | ![Mariia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pensativa&show_icons=true&theme=gotham) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pensativa&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) | 
+| ----------- | ----------- |-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pensativa&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
